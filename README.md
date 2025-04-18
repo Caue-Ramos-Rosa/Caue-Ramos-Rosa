@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Caue-Ramos-Rosa
-- 👀 I’m interested in  estágio em desenvolvimento e programação.
-- 🌱 I’m currently learning  linguagem Python .
-- 💞️ I’m looking to collaborate on  para desenvolver soluçoes  em programação.
-- 📫 How to reach me  - Whatsapp (11 - 95272-8399)
+👋 Hi, I'm @Caue-Ramos-Rosa
 
+🤖 I'm very interested in working as a Generative Artificial Intelligence (GEN) Specialist
+
+🚀 I'm currently responsible for implementing Generative AI projects, contributing to the company's digital transformation
+
+💡 I'm looking to collaborate in the development of intelligent and efficient solutions, combining strategic management and programming
+
+📲 Contact me via WhatsApp (11 95272-8399)
 <!---
 Caue-Ramos-Rosa/Caue-Ramos-Rosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the View link to see your changes.
 --->
