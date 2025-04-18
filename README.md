@@ -1,6 +1,6 @@
 👋 Hi, I'm @Caue-Ramos-Rosa
 
-🤖 I'm very interested in working as a Generative Artificial Intelligence (GEN) Specialist
+🤖 My interest is to work as a Generative Artificial Intelligence (GEN) Specialist
 
 🚀 I'm currently responsible for implementing Generative AI projects, contributing to the company's digital transformation
 
